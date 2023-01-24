@@ -4,3 +4,6 @@ Lista de ejercicios pendientes por hacer para desarrollar logica
 2.juego de bingo(Realizar logica para cartones (avances));
 3.palabra palindrome(Realizar funcion para repetir la funcio segun palabras).
 4.ecommer(Realizar ejemplo encontrado).
+5.terminar curso java y js 
+
+Realizado por :Wilmara Ruiz Diaz 
