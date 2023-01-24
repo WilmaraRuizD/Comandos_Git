@@ -1,0 +1,6 @@
+Lista de ejercicios pendientes por hacer para desarrollar logica 
+
+1.juego del ahorcado (No se a generado avances);
+2.juego de bingo(Realizar logica para cartones (avances));
+3.palabra palindrome(Realizar funcion para repetir la funcio segun palabras).
+4.ecommer(Realizar ejemplo encontrado).
